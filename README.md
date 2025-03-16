@@ -1,4 +1,6 @@
-#🚀 From Linux Admin Struggles to Ansible Hero
+
+<h1 align="center">🚀 From Linux Admin Struggles to Ansible Hero</h1>
+
 
 ##📌 The Daily Life of a Linux Admin... Before Ansible
 
