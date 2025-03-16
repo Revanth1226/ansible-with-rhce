@@ -38,11 +38,11 @@ Welcome to the **Ansible with RHCE** learning journey! This repository is design
 
 ✅ What You'll Learn:
 
-- Ansible fundamentals, modules, and playbooks
-- Automating Linux administration tasks
-- Configuring and managing Ansible environments
-- Advanced topics like Ansible Vault, Jinja2 templates, and dynamic inventories
-- Linux performance tuning and monitoring with Ansible
+- **Ansible fundamentals, modules, and playbooks**
+- **Automating Linux administration tasks**
+- **Configuring and managing Ansible environments**
+- **Advanced topics like Ansible Vault, Jinja2 templates, and dynamic inventories**
+- **Linux performance tuning and monitoring with Ansible**
 
 <h2>📂 Course Structure</h2>
 
