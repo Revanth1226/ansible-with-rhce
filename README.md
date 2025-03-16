@@ -5,26 +5,26 @@
 
 Being a **Linux Administrator** is a challenging job. **Every day**, we:
 
-🔄 Perform repetitive tasks manually
-🛠️ Write complex shell scripts to automate things
-🔍 Troubleshoot endless system issues
-🔧 Manage multiple servers, configurations, and updates
+- 🔄 Perform repetitive tasks manually
+- 🛠️ Write complex shell scripts to automate things
+- 🔍 Troubleshoot endless system issues
+- 🔧 Manage multiple servers, configurations, and updates
 
 <h2>✨ Then Came Ansible – The Game Changer!</h2>
 
 *One day, we discovered **Ansible** 🦸‍♂️💡, an automation tool that **changed everything:***
 
-✅ No more repetitive tasks – Playbooks handle it all
-✅ No more manual configurations – Everything is automated
-✅ No more headaches – Deployments become seamless
+- ✅ No more repetitive tasks – Playbooks handle it all
+- ✅ No more manual configurations – Everything is automated
+- ✅ No more headaches – Deployments become seamless
 
 <h2>##😃 Life After Ansible – A Happy Linux Admin!</h2>
 
 *With **Ansible** taking care of **automation**, a **Linux admin** can now:*
 
-🚀 Focus on strategic work
-🛠️ Automate configurations and deployments
-💡 Enjoy a stress-free work environment
+- 🚀 Focus on strategic work
+- 🛠️ Automate configurations and deployments
+- 💡 Enjoy a stress-free work environment
 
 ![Ansible RHCE](images/Linux_Ansible.gif)
 
