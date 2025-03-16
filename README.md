@@ -50,62 +50,61 @@ Welcome to the **Ansible with RHCE** learning journey! This repository is design
 - 📌 Understanding the purpose of Ansible and RHCE  
 - 📌 Why automation is essential for Linux administration  
 
+## 2️⃣ Setting Up the LAB Environment  
+- 🛠️ AWS-based infrastructure for practice  
+- 🔧 Installing Ansible (Latest Stable Version)  
+- 🔑 Setting up SSH key-based authentication  
 
-<h3>2️⃣ Setting Up the LAB Environment</h3>
--  🛠️ AWS-based infrastructure for practice
--  🔧 Installing Ansible (Latest Stable Version)
--  🔑 Setting up SSH key-based authentication
+## 3️⃣ Core Components of Ansible - Part 1 (Configuration & Inventory)  
+- ⚙️ Exploring the Ansible Configuration File (ansible.cfg)  
+- 📋 Understanding inventory files, hostvars, and groupvars  
 
-<h3>3️⃣ Core Components of Ansible - Part 1 (Configuration & Inventory)</h3>
--  ⚙️ Exploring the Ansible Configuration File (ansible.cfg)
--  📋 Understanding inventory files, hostvars, and groupvars
+## 4️⃣ Core Components of Ansible - Part 2 (Commands & Modules)  
+- 📖 Using Ansible documentation  
+- 🚀 Running Ad-Hoc commands for system tasks  
+- 📜 Writing basic Ansible playbooks  
 
-<h3>4️⃣ Core Components of Ansible - Part 2 (Commands & Modules)</h3>
--  📖 Using Ansible documentation
--  🚀 Running Ad-Hoc commands for system tasks
--  📜 Writing basic Ansible playbooks
+## 5️⃣ Core Components of Ansible - Part 3 (Variables & Facts)  
+- 📌 Understanding different variable types  
+- 🔍 Using Ansible Facts to gather system information  
 
-<h3>5️⃣ Core Components of Ansible - Part 3 (Variables & Facts)</h3>
--  📌 Understanding different variable types
--  🔍 Using Ansible Facts to gather system information
+## 6️⃣ Configuring Ansible Control Node  
+- 📌 Setting up ansible.cfg and inventory files  
 
-<h3>6️⃣ Configuring Ansible Control Node</h3>
-- 📌 Setting up ansible.cfg and inventory files
+## 7️⃣ Configuring Ansible Managed Nodes  
+- 🔹 Configuring SSH ports, privilege escalation, and user accounts  
+- 🔹 Disabling GPG key checks for package management  
 
-<h3>7️⃣ Configuring Ansible Managed Nodes</h3>
-- 🔹 Configuring SSH ports, privilege escalation, and user accounts
-- 🔹 Disabling GPG key checks for package management
+## 8️⃣ Using Ansible Modules for System Administration Tasks - Part 1  
+- ✅ Managing users, services, and packages  
+- ✅ Automating job scheduling and storage management  
 
-<h3>8️⃣ Using Ansible Modules for System Administration Tasks - Part 1</h3>
-- ✅ Managing users, services, and packages
-- ✅ Automating job scheduling and storage management
+## 9️⃣ Using Ansible Modules for System Administration Tasks - Part 2  
+- 🔥 Configuring firewalls, SELinux, and filesystems  
+- 🔥 Automating partitioning and mounting  
 
-<h3>9️⃣ Using Ansible Modules for System Administration Tasks - Part 2</h3>
-- 🔥 Configuring firewalls, SELinux, and filesystems
-- 🔥 Automating partitioning and mounting
+## 🔟 Using Scripts for System Administration Tasks  
+- 🛠️ Automating file management with Shell & Python scripts  
 
-<h3>🔟 Using Scripts for System Administration Tasks</h3>
-- 🛠️ Automating file management with Shell & Python scripts
+## 1️⃣1️⃣ Ansible Plays and Playbooks - Conditional Execution  
+- 🔄 Conditional execution using when, loop, and Jinja2 templating  
 
-<h3>1️⃣1️⃣ Ansible Plays and Playbooks - Conditional Execution</h3>
-- 🔄 Conditional execution using when, loop, and Jinja2 templating
+## 1️⃣2️⃣ Using Advanced Ansible Features - Vault and Templates  
+- 🔐 Securing secrets with Ansible Vault  
+- 📄 Configuring servers using Jinja2 templates  
 
-<h3>1️⃣2️⃣ Using Advanced Ansible Features - Vault and Templates</h3>
-- 🔐 Securing secrets with Ansible Vault
-- 📄 Configuring servers using Jinja2 templates
+## 1️⃣3️⃣ Debugging & Troubleshooting Ansible Playbooks  
+- 🔍 Using debug module and ansible-lint  
+- 🔍 Fixing common YAML syntax mistakes  
 
-<h3>1️⃣3️⃣ Debugging & Troubleshooting Ansible Playbooks</h3>
-- 🔍 Using debug module and ansible-lint
-- 🔍 Fixing common YAML syntax mistakes
+## 1️⃣4️⃣ Working with Roles  
+- 📌 Creating reusable Ansible roles  
+- 📌 Downloading roles from Ansible Galaxy  
 
-<h3>1️⃣4️⃣ Working with Roles</h3>
-- 📌 Creating reusable Ansible roles
-- 📌 Downloading roles from Ansible Galaxy
+## 1️⃣5️⃣ (Optional) Working with Dynamic Inventories  
+- 🔄 Configuring AWS Dynamic Inventory for cloud-based automation  
 
-<h3>1️⃣5️⃣ (Optional) Working with Dynamic Inventories</h3>
-- 🔄 Configuring AWS Dynamic Inventory for cloud-based automation
-
-<h3>1️⃣6️⃣ Linux Performance Tuning & Optimization</h3>
-- 📊 Monitoring CPU, memory, disk, and network usage
-- 🔧 Optimizing performance with Ansible
-- 📈 Deploying Prometheus and Node Exporter for monitoring
+## 1️⃣6️⃣ Linux Performance Tuning & Optimization  
+- 📊 Monitoring CPU, memory, disk, and network usage  
+- 🔧 Optimizing performance with Ansible  
+- 📈 Deploying Prometheus and Node Exporter for monitoring  
