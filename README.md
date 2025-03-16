@@ -32,7 +32,7 @@ Being a **Linux Administrator** is a challenging job. **Every day**, we:
 # <h1 align="center">🚀 Ansible with RHCE - Structured Learning Plan</h1>
 
 
-# <h2>📌 Introduction</h2
+# <h2>📌 Introduction</h2>
 
 Welcome to the **Ansible with RHCE** learning journey! This repository is designed to provide a structured and hands-on approach to mastering **Ansible for Linux system administration**. Whether you are a **Linux administrator** looking to **automate repetitive tasks** or preparing for the **Red Hat Certified Engineer (RHCE)** exam, this guide will help you step by step.
 
