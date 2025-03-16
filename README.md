@@ -29,78 +29,82 @@ Being a **Linux Administrator** is a challenging job. **Every day**, we:
 ![Ansible RHCE](images/Linux_Ansible.gif)
 
 
-🚀 Ansible with RHCE - Structured Learning Plan
+<h1 align="center">🚀 Ansible with RHCE - Structured Learning Plan</h1>
 
-📌 Introduction
-Welcome to the Ansible with RHCE learning journey! This repository is designed to provide a structured and hands-on approach to mastering Ansible for Linux system administration. Whether you are a Linux administrator looking to automate repetitive tasks or preparing for the Red Hat Certified Engineer (RHCE) exam, this guide will help you step by step.
+
+<h2>📌 Introduction</h2
+
+Welcome to the **Ansible with RHCE** learning journey! This repository is designed to provide a structured and hands-on approach to mastering **Ansible for Linux system administration**. Whether you are a **Linux administrator** looking to **automate repetitive tasks** or preparing for the **Red Hat Certified Engineer (RHCE)** exam, this guide will help you step by step.
 
 ✅ What You'll Learn:
 
-Ansible fundamentals, modules, and playbooks
-Automating Linux administration tasks
-Configuring and managing Ansible environments
-Advanced topics like Ansible Vault, Jinja2 templates, and dynamic inventories
-Linux performance tuning and monitoring with Ansible
-📂 Course Structure
-1️⃣ Introduction
-📌 Understanding the purpose of Ansible and RHCE
-📌 Why automation is essential for Linux administration
+- Ansible fundamentals, modules, and playbooks
+- Automating Linux administration tasks
+- Configuring and managing Ansible environments
+- Advanced topics like Ansible Vault, Jinja2 templates, and dynamic inventories
+- Linux performance tuning and monitoring with Ansible
 
-2️⃣ Setting Up the LAB Environment
-🛠️ AWS-based infrastructure for practice
-🔧 Installing Ansible (Latest Stable Version)
-🔑 Setting up SSH key-based authentication
+<h2>📂 Course Structure</h2>
 
-3️⃣ Core Components of Ansible - Part 1 (Configuration & Inventory)
-⚙️ Exploring the Ansible Configuration File (ansible.cfg)
-📋 Understanding inventory files, hostvars, and groupvars
+<h3>1️⃣ Introduction</h3>
+- 📌 Understanding the purpose of Ansible and RHCE
+- 📌 Why automation is essential for Linux administration
 
-4️⃣ Core Components of Ansible - Part 2 (Commands & Modules)
-📖 Using Ansible documentation
-🚀 Running Ad-Hoc commands for system tasks
-📜 Writing basic Ansible playbooks
+<h3>2️⃣ Setting Up the LAB Environment</h3>
+- 🛠️ AWS-based infrastructure for practice
+- 🔧 Installing Ansible (Latest Stable Version)
+- 🔑 Setting up SSH key-based authentication
 
-5️⃣ Core Components of Ansible - Part 3 (Variables & Facts)
-📌 Understanding different variable types
-🔍 Using Ansible Facts to gather system information
+<h3>3️⃣ Core Components of Ansible - Part 1 (Configuration & Inventory)</h3>
+- ⚙️ Exploring the Ansible Configuration File (ansible.cfg)
+- 📋 Understanding inventory files, hostvars, and groupvars
 
-6️⃣ Configuring Ansible Control Node
-📌 Setting up ansible.cfg and inventory files
+<h3>4️⃣ Core Components of Ansible - Part 2 (Commands & Modules)</h3>
+- 📖 Using Ansible documentation
+- 🚀 Running Ad-Hoc commands for system tasks
+- 📜 Writing basic Ansible playbooks
 
-7️⃣ Configuring Ansible Managed Nodes
-🔹 Configuring SSH ports, privilege escalation, and user accounts
-🔹 Disabling GPG key checks for package management
+<h3>5️⃣ Core Components of Ansible - Part 3 (Variables & Facts)</h3>
+- 📌 Understanding different variable types
+- 🔍 Using Ansible Facts to gather system information
 
-8️⃣ Using Ansible Modules for System Administration Tasks - Part 1
-✅ Managing users, services, and packages
-✅ Automating job scheduling and storage management
+<h3>6️⃣ Configuring Ansible Control Node</h3>
+- 📌 Setting up ansible.cfg and inventory files
 
-9️⃣ Using Ansible Modules for System Administration Tasks - Part 2
-🔥 Configuring firewalls, SELinux, and filesystems
-🔥 Automating partitioning and mounting
+<h3>7️⃣ Configuring Ansible Managed Nodes</h3>
+- 🔹 Configuring SSH ports, privilege escalation, and user accounts
+- 🔹 Disabling GPG key checks for package management
 
-🔟 Using Scripts for System Administration Tasks
-🛠️ Automating file management with Shell & Python scripts
+<h3>8️⃣ Using Ansible Modules for System Administration Tasks - Part 1</h3>
+- ✅ Managing users, services, and packages
+- ✅ Automating job scheduling and storage management
 
-1️⃣1️⃣ Ansible Plays and Playbooks - Conditional Execution
-🔄 Conditional execution using when, loop, and Jinja2 templating
+<h3>9️⃣ Using Ansible Modules for System Administration Tasks - Part 2</h3>
+- 🔥 Configuring firewalls, SELinux, and filesystems
+- 🔥 Automating partitioning and mounting
 
-1️⃣2️⃣ Using Advanced Ansible Features - Vault and Templates
-🔐 Securing secrets with Ansible Vault
-📄 Configuring servers using Jinja2 templates
+<h3>🔟 Using Scripts for System Administration Tasks</h3>
+- 🛠️ Automating file management with Shell & Python scripts
 
-1️⃣3️⃣ Debugging & Troubleshooting Ansible Playbooks
-🔍 Using debug module and ansible-lint
-🔍 Fixing common YAML syntax mistakes
+<h3>1️⃣1️⃣ Ansible Plays and Playbooks - Conditional Execution</h3>
+- 🔄 Conditional execution using when, loop, and Jinja2 templating
 
-1️⃣4️⃣ Working with Roles
-📌 Creating reusable Ansible roles
-📌 Downloading roles from Ansible Galaxy
+<h3>1️⃣2️⃣ Using Advanced Ansible Features - Vault and Templates</h3>
+- 🔐 Securing secrets with Ansible Vault
+- 📄 Configuring servers using Jinja2 templates
 
-1️⃣5️⃣ (Optional) Working with Dynamic Inventories
-🔄 Configuring AWS Dynamic Inventory for cloud-based automation
+<h3>1️⃣3️⃣ Debugging & Troubleshooting Ansible Playbooks</h3>
+- 🔍 Using debug module and ansible-lint
+- 🔍 Fixing common YAML syntax mistakes
 
-1️⃣6️⃣ Linux Performance Tuning & Optimization
-📊 Monitoring CPU, memory, disk, and network usage
-🔧 Optimizing performance with Ansible
-📈 Deploying Prometheus and Node Exporter for monitoring
+<h3>1️⃣4️⃣ Working with Roles</h3>
+- 📌 Creating reusable Ansible roles
+- 📌 Downloading roles from Ansible Galaxy
+
+<h3>1️⃣5️⃣ (Optional) Working with Dynamic Inventories</h3>
+- 🔄 Configuring AWS Dynamic Inventory for cloud-based automation
+
+<h3>1️⃣6️⃣ Linux Performance Tuning & Optimization</h3>
+- 📊 Monitoring CPU, memory, disk, and network usage
+- 🔧 Optimizing performance with Ansible
+- 📈 Deploying Prometheus and Node Exporter for monitoring
