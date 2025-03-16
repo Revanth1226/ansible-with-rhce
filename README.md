@@ -47,26 +47,26 @@ Welcome to the **Ansible with RHCE** learning journey! This repository is design
 <h2>📂 Course Structure</h2>
 
 <h3>1️⃣ Introduction</h3>
-- 📌 Understanding the purpose of Ansible and RHCE
-- 📌 Why automation is essential for Linux administration
+-  📌 Understanding the purpose of Ansible and RHCE
+-  📌 Why automation is essential for Linux administration
 
 <h3>2️⃣ Setting Up the LAB Environment</h3>
-- 🛠️ AWS-based infrastructure for practice
-- 🔧 Installing Ansible (Latest Stable Version)
-- 🔑 Setting up SSH key-based authentication
+-  🛠️ AWS-based infrastructure for practice
+-  🔧 Installing Ansible (Latest Stable Version)
+-  🔑 Setting up SSH key-based authentication
 
 <h3>3️⃣ Core Components of Ansible - Part 1 (Configuration & Inventory)</h3>
-- ⚙️ Exploring the Ansible Configuration File (ansible.cfg)
-- 📋 Understanding inventory files, hostvars, and groupvars
+-  ⚙️ Exploring the Ansible Configuration File (ansible.cfg)
+-  📋 Understanding inventory files, hostvars, and groupvars
 
 <h3>4️⃣ Core Components of Ansible - Part 2 (Commands & Modules)</h3>
-- 📖 Using Ansible documentation
-- 🚀 Running Ad-Hoc commands for system tasks
-- 📜 Writing basic Ansible playbooks
+-  📖 Using Ansible documentation
+-  🚀 Running Ad-Hoc commands for system tasks
+-  📜 Writing basic Ansible playbooks
 
 <h3>5️⃣ Core Components of Ansible - Part 3 (Variables & Facts)</h3>
-- 📌 Understanding different variable types
-- 🔍 Using Ansible Facts to gather system information
+-  📌 Understanding different variable types
+-  🔍 Using Ansible Facts to gather system information
 
 <h3>6️⃣ Configuring Ansible Control Node</h3>
 - 📌 Setting up ansible.cfg and inventory files
