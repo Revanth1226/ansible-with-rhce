@@ -29,4 +29,32 @@ Linux Admin decides to automate some of his work using shell scripts!
 
 ---
 
+## 🚀 Before Ansible – The Struggle of Automation  
+
+### 🎬 Scene 1: Struggling with Puppet’s Complexity  
+
+![Struggling with Puppet](../images/script_puppet.gif)  
+
+📌 **Our Linux Admin’s Reality:**  
+- After **struggling with shell scripts**, he **turns to Puppet** for automation.  
+- He **stares at the screen**, filled with **complicated Puppet code**.  
+- **Sweat drops** on his forehead as he **tries to debug an error**.  
+- His **expression shows frustration** as he **scrolls through documentation**.  
+- **Coffee mugs pile up** on his desk, symbolizing **late nights and endless struggles**.  
+- He **holds his head in exhaustion**, thinking:  
+
+💭 *"I just wanted to automate tasks… Why is this so complicated?!"*  
+
+---
+
+### 💡 The Turning Point: The Search for a Better Solution  
+- Our **Linux Admin** realizes **he needs something simpler**.  
+- He **starts searching for a better way**…  
+- **And that’s when he finds Ansible!** 🎉  
+
+---
+
+📌 **Next up: "Discovering Ansible - A Game Changer!"** 🚀
+
+
 📌 **Next up:** 🚀 **"Exploring Ansible – The Game Changer!"**  
