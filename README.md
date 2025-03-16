@@ -18,7 +18,7 @@ Being a **Linux Administrator** is a challenging job. **Every day**, we:
 - ✅ No more manual configurations – Everything is automated
 - ✅ No more headaches – Deployments become seamless
 
-<h2>##😃 Life After Ansible – A Happy Linux Admin!</h2>
+<h2>😃 Life After Ansible – A Happy Linux Admin!</h2>
 
 *With **Ansible** taking care of **automation**, a **Linux admin** can now:*
 
