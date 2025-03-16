@@ -1,5 +1,3 @@
-
-
 # 🚀 **Linux Admin Daily Routine (Before Automation) ⏳**
 
 ## 👨‍💻 **The Life of a Linux Admin**
@@ -10,12 +8,20 @@
 
 💭 **"Same tasks, same problems, every day... There must be a better way!"**  
 
+### 🎬 **Visual Representation**
+![Linux Admin Daily Life](images/linux_daily/daily_routine.gif)  
 
-📌 **Next up:** 🚀 **"Discovering Shell Scripting – A Step Towards Automation!"**
+📌 **Next up:** 🚀 **"Discovering Shell Scripting – A Step Towards Automation!"**  
 
+---
 
-![Ansible with RHCE](../images/ansible_rhce.gif)
+# ⚙️ **Introducing Shell Scripting (The First Step)**
+- **🔹 Realization:** Why repeat the same commands manually?  
+- **🔹 Solution:** Start using Shell scripts to automate routine tasks.  
+- **🔹 Challenge:** Writing long and complex scripts can become difficult.  
 
-## Introducing the Course
-- Understanding the Purpose of Ansible and RHCE
-- Why Automation is Essential for Linux System Administration
+💡 **"Automation is great, but maintaining large scripts is another headache!"**  
+
+### 🎬 **Visual Representation**
+![Linux Admin Using Shell](images/with_scripting/scripting_intro.gif)  
+
