@@ -1,3 +1,3 @@
 My first GitHub project
 
-![Ansible RHCE](images/ansible_rhce.gif)
+![Ansible RHCE](images/Linux_Ansible.gif)
