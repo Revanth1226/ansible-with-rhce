@@ -1,6 +1,6 @@
 # 🚀 Introduction
 
-## 👨‍💻 **Linux Admin's Daily Routine (Before Automation)**
+## 👨‍💻 Linux Admin's Daily Routine (Before Automation)
 A Linux Admin's life is full of repetitive tasks, day in and day out...  
 
 - 🏢 **Morning:** Goes to the office, ready for another day.  
@@ -15,7 +15,7 @@ A Linux Admin's life is full of repetitive tasks, day in and day out...
 
 ---
 
-## ⚙️ **Introducing Shell Scripting (The First Step)**
+## ⚙️ Introducing Shell Scripting (The First Step)
 Linux Admin decides to automate some of his work using shell scripts!  
 
 - ✅ **Solution:** Start using Shell scripts for repetitive tasks.  
