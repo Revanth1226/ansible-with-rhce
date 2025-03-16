@@ -1,25 +1,25 @@
-🚀 From Linux Admin Struggles to Ansible Hero
+#🚀 From Linux Admin Struggles to Ansible Hero
 
-📌 The Daily Life of a Linux Admin... Before Ansible
+##📌 The Daily Life of a Linux Admin... Before Ansible
 
-Being a Linux Administrator is a challenging job. Every day, we:
+*Being a Linux Administrator is a challenging job. Every day, we:*
 
 🔄 Perform repetitive tasks manually
 🛠️ Write complex shell scripts to automate things
 🔍 Troubleshoot endless system issues
 🔧 Manage multiple servers, configurations, and updates
 
-✨ Then Came Ansible – The Game Changer!
+##✨ Then Came Ansible – The Game Changer!
 
-One day, we discovered Ansible 🦸‍♂️💡, an automation tool that changed everything:
+*One day, we discovered Ansible 🦸‍♂️💡, an automation tool that changed everything:*
 
 ✅ No more repetitive tasks – Playbooks handle it all
 ✅ No more manual configurations – Everything is automated
 ✅ No more headaches – Deployments become seamless
 
-😃 Life After Ansible – A Happy Linux Admin!
+##😃 Life After Ansible – A Happy Linux Admin!
 
-With Ansible taking care of automation, a Linux admin can now:
+*With Ansible taking care of automation, a Linux admin can now:*
 
 🚀 Focus on strategic work
 🛠️ Automate configurations and deployments
