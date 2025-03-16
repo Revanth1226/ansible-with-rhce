@@ -1,10 +1,9 @@
 
 <h1 align="center">🚀 From Linux Admin Struggles to Ansible Hero</h1>
 
+<h2>📌 The Daily Life of a Linux Admin... Before Ansible</h2>
 
-##📌 The Daily Life of a Linux Admin... Before Ansible
-
-*Being a Linux Administrator is a challenging job. Every day, we:*
+Being a **Linux Administrator** is a challenging job. **Every day**, we:
 
 🔄 Perform repetitive tasks manually
 🛠️ Write complex shell scripts to automate things
