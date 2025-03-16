@@ -46,9 +46,10 @@ Welcome to the **Ansible with RHCE** learning journey! This repository is design
 
 <h2>📂 Course Structure</h2>
 
-<h2>1️⃣ Introduction</h2>
-- 📌 Understanding the purpose of Ansible and RHCE
-- 📌 Why automation is essential for Linux administration
+## 1️⃣ Introduction
+- 📌 Understanding the purpose of Ansible and RHCE  
+- 📌 Why automation is essential for Linux administration  
+
 
 <h3>2️⃣ Setting Up the LAB Environment</h3>
 -  🛠️ AWS-based infrastructure for practice
