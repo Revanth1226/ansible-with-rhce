@@ -1,7 +1,7 @@
 
-<h1 align="center">🚀 From Linux Admin Struggles to Ansible Hero</h1>
+# <h1 align="center">🚀 From Linux Admin Struggles to Ansible Hero</h1>
 
-<h2>📌 The Daily Life of a Linux Admin... Before Ansible</h2>
+# <h2>📌 The Daily Life of a Linux Admin... Before Ansible</h2>
 
 Being a **Linux Administrator** is a challenging job. **Every day**, we:
 
@@ -10,7 +10,7 @@ Being a **Linux Administrator** is a challenging job. **Every day**, we:
 - 🔍 Troubleshoot endless system issues
 - 🔧 Manage multiple servers, configurations, and updates
 
-<h2>✨ Then Came Ansible – The Game Changer!</h2>
+# <h2>✨ Then Came Ansible – The Game Changer!</h2>
 
 *One day, we discovered **Ansible** 🦸‍♂️💡, an automation tool that **changed everything:***
 
@@ -18,7 +18,7 @@ Being a **Linux Administrator** is a challenging job. **Every day**, we:
 - ✅ No more manual configurations – Everything is automated
 - ✅ No more headaches – Deployments become seamless
 
-<h2>😃 Life After Ansible – A Happy Linux Admin!</h2>
+# <h2>😃 Life After Ansible – A Happy Linux Admin!</h2>
 
 *With **Ansible** taking care of **automation**, a **Linux admin** can now:*
 
@@ -29,10 +29,10 @@ Being a **Linux Administrator** is a challenging job. **Every day**, we:
 ![Ansible RHCE](images/Linux_Ansible.gif)
 
 
-<h1 align="center">🚀 Ansible with RHCE - Structured Learning Plan</h1>
+# <h1 align="center">🚀 Ansible with RHCE - Structured Learning Plan</h1>
 
 
-<h2>📌 Introduction</h2
+# <h2>📌 Introduction</h2
 
 Welcome to the **Ansible with RHCE** learning journey! This repository is designed to provide a structured and hands-on approach to mastering **Ansible for Linux system administration**. Whether you are a **Linux administrator** looking to **automate repetitive tasks** or preparing for the **Red Hat Certified Engineer (RHCE)** exam, this guide will help you step by step.
 
@@ -44,7 +44,7 @@ Welcome to the **Ansible with RHCE** learning journey! This repository is design
 - **Advanced topics like Ansible Vault, Jinja2 templates, and dynamic inventories**
 - **Linux performance tuning and monitoring with Ansible**
 
-<h2>📂 Course Structure</h2>
+# <h2>📂 Course Structure</h2>
 
 ## 1️⃣ Introduction
 - 📌 Understanding the purpose of Ansible and RHCE  
