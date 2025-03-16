@@ -9,7 +9,7 @@
 💭 **"Same tasks, same problems, every day... There must be a better way!"**  
 
 ### 🎬 **Visual Representation**
-![Linux Admin Daily Life](images/linux_daily/daily_routine.gif)  
+![Linux Admin Daily Life](../images/linux_daily.gif)  
 
 📌 **Next up:** 🚀 **"Discovering Shell Scripting – A Step Towards Automation!"**  
 
@@ -23,5 +23,5 @@
 💡 **"Automation is great, but maintaining large scripts is another headache!"**  
 
 ### 🎬 **Visual Representation**
-![Linux Admin Using Shell](images/with_scripting/scripting_intro.gif)  
+![Linux Admin Using Shell](../images/with_scripting.gif)  
 
